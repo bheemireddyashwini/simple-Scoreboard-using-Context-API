@@ -1,0 +1,55 @@
+.score{
+    background-color: #FFFFFF ;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+  margin-top: 30px;
+  }
+  
+  .score h1{
+    font-size: 40px;
+    color: #080808;
+    background-color: rgb(183, 235, 235);
+    margin-top: 10px;
+    
+  
+  
+  }
+  
+  
+  .score h2{
+    font-size: 25px;
+    color: #a2d4d6;
+   
+    margin-top: 30px;
+  }
+  
+
+    .score button{
+        background-color: #c7e8eb;
+        color: white;
+        padding: 10px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+      
+        font-size: 10px;
+        
+    }
+    .score button:hover{
+        border: 2px solid black;
+        background-color: #68d4ca;
+        color: #FFFFFF;
+    }
+
+    .info h3{
+        font-size: 35px;
+        color: #b9a28c;
+        background-color: rgb(183, 235, 235);
+        margin-bottom: 20px;
+       text-align: center;
+    
+       
+       
+    }
